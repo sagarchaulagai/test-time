@@ -1,7 +1,7 @@
 {
-  'latest_version' : 'v2.0.1',
-  'changelogs' : [
-    "Fix missing account playlists",
-    "Fix bad quality audio"
-  ]
+    "latest_version": "v2.0.1",
+    "changelogs": [
+        "Fix missing account playlists",
+        "Fix bad quality audio"
+    ]
 }
