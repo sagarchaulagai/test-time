@@ -1,0 +1,34 @@
+{
+  "repo_name": "Nepali Audiobooks",
+  "repo_author": "Audib App",
+  "repo_image_direct_url": "https://i1.sndcdn.com/artworks-gPcaDUPi2uhu2VOS-RNwNng-t500x500.jpg",
+  "credit_url": "www.github.com/whatever",
+  "audiobooks": [
+    {
+      "title": "China Harayeko Manchhe", 
+      "description": "This is description",
+      "totalTime": 300,
+      "author": "Sagar Prasad Chaulagain",
+      "date": "2016-08-07T00:00:00Z",
+      "downloads": 1000,
+      "image": "https://www.upaharbazar.com/wp-content/uploads/2022/01/CHINA-HARAYEKO-MANCHHE-1.jpg",
+      "subjects": [
+        "Fiction",
+        "Story"
+      ],
+      "size": 2055333036,
+      "rating": 4.5,
+      "language": "ne",
+      "audioFiles": [
+        {
+          "url": "https://archive.org/download/cheena-harayeko-manche-full-nepali-novel-hari-bamsa-acharya-1/China_Harayeko_Manchhe--Part_1.mp3",
+          "title": " Cheena Harayeko Manchhe 1 "
+        },
+        {
+          "url": "https://archive.org/download/cheena-harayeko-manche-full-nepali-novel-hari-bamsa-acharya-1/China_Harayeko_Manchhe--Part_2.mp3",
+          "title": " Cheena Harayeko Manchhe 2 "
+        }
+      ]
+    }
+  ]
+}
